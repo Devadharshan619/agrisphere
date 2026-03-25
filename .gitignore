@@ -1,0 +1,48 @@
+# Node modules
+node_modules/
+
+# Next.js
+.next/
+out/
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Logs
+*.log
+build.log
+dev.log
+dev_error.log
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Python virtual environment
+.venv/
+venv/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# MongoDB
+data/db/
+
+# Build outputs
+dist/
+build/
+
+# AI models (optional if large)
+*.pkl
+*.h5
+*.model
